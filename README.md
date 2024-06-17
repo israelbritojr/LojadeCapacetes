@@ -1,9 +1,9 @@
 # LojadeCapacetes
-##  Em andamento...
-
 
 ### DESCRIÇÃO...
-Código em C para criação de listas simplesmente ligadas com vetores. Nela o usuário através da função main poderá:
+Código em C para criação de listas simplesmente ligadas com vetores. 
+
+Nela o usuário através da função main poderá:
 * criarLista;
 * inserirCapacete (adicionar no final da lista) ;
 * inserirCaapceteID (adiciona na posição indicada da lista); 
@@ -14,3 +14,5 @@ Código em C para criação de listas simplesmente ligadas com vetores. Nela o u
 * buscarCapacete (encontra e retorna o Capacete pesquisado);
 * tamanho (retorna a quantidade de Capacetes da lista);
 * excluirLista (apaga todos os Capacetes e a lista);
+
+Logo ao ínicio do programa o usuário podera escolher qual função deseja executar e assim trabalhar em cima da aplicação em C;
