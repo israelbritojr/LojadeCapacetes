@@ -1,18 +1,37 @@
-# LojadeCapacetes
+# **Projeto em C Loja de Capacetes**
+## By israelbritojr
 
-### DESCRIÇÃO...
-Código em C para criação de listas simplesmente ligadas com vetores. 
+Este projeto foi uma atividade proposta pelo Profª Mayrton Dias para nota.
 
-Nela o usuário através da função main poderá:
-* criarLista;
-* inserirCapacete (adicionar no final da lista) ;
-* inserirCaapceteID (adiciona na posição indicada da lista); 
-* inserirCapaceteInicio (adiciona no início lista) ;
-* listarCapacetes (apresenta todas as informações dos Capacetes da lista - do primeiro Capacete ao último);
-* removerCapacete (remove pela posição);
-*  atualizar (altera os campos de um Capacete da lista);
-* buscarCapacete (encontra e retorna o Capacete pesquisado);
-* tamanho (retorna a quantidade de Capacetes da lista);
-* excluirLista (apaga todos os Capacetes e a lista);
+Neste repositório se encontra um projeto para apoio de estoque de uma loja de capacetes, trabalhando dados que serão utilizados para auxiliar no estoque daquela empresa sendo útil a outros ramos ou temas;
 
-Logo ao ínicio do programa o usuário podera escolher qual função deseja executar e assim trabalhar em cima da aplicação em C;
+Com base nisto, nas atividades foram desenvolvidas habilidades na criação de:
+
+### **Listas Encadeadas, Vetorizadas e Circular**
+Com funções como: 
+ * criarlista;                      
+ * inserirelemento;
+ * removerelemento;
+ * buscar elemento;
+ * mostrar elementos em ordem inversa;
+ * mostrar elementos;
+ * atualizar elementos;
+ * excluir lista;
+
+### **Filas**
+Com funções como:
+  * criarFila;
+  * enqueue (insere o elemento na fila); 
+  * dequeue (remove o elemento da fila);
+  * excluirFila (apaga todos os elementos e a fila);  
+
+### **Pilhas**
+Com funções como: 
+ * criarPilha;
+ * push (insere no topo da pilha); 
+ * pop (remove do topo da pilha);
+ * ehVazia (informa se a pilha está vazia); 
+ * verTopo (informa o conteúdo do elemento do topo da pilha);
+ * excluirPilha (apaga todos os elementos e a pilha);
+
+Logo ao ínicio do programa executavel o usuário podera escolher qual função deseja executar e assim trabalhar em cima da aplicação em C;
